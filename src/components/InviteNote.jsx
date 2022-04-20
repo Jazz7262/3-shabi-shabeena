@@ -13,7 +13,7 @@ function InviteNote() {
                     Ibraheem<sub>(Naat Khan)</sub>
                 </h4>
 
-                <h6>+91 78010 81741.</h6>
+                <h6>+91 91103 87693.</h6>
             </div>
         </section>
     );

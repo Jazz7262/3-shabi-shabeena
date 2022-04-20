@@ -7,7 +7,7 @@ function InvitationQuote() {
                 <h1>We request your presence in this sacred occasion</h1>
                 <h3>
                     The public is requested to have the privilege of attending
-                    the aforesaid spiritual program with freinds and reap the
+                    the aforesaid spiritual program with friends and reap the
                     rewards....
                 </h3>
             </div>
