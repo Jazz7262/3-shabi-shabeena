@@ -19,7 +19,9 @@ function Navbar() {
                     data-aos-duration="1500"
                     href="#header"
                 >
-                    <h1><span className="num">3</span>{" "}Shabi Shabeena</h1>
+                    <h1>
+                        <span className="num">3</span> Shabi Shabeena
+                    </h1>
                 </a>
                 <button
                     id="ham-btn"
@@ -57,16 +59,16 @@ function Navbar() {
                             <a
                                 className="nav-link"
                                 onClick={handleClick}
-                                href="#baby-info"
+                                href="#imaam-info"
                             >
-                                Baby
+                                Imaam
                             </a>
                         </li>
                         <li className="nav-item">
                             <a
                                 className="nav-link"
                                 onClick={handleClick}
-                                href="#invitation-quote"
+                                href="#timeline"
                             >
                                 Date
                             </a>
@@ -75,16 +77,16 @@ function Navbar() {
                             <a
                                 className="nav-link"
                                 onClick={handleClick}
-                                href="#baby-quote"
+                                href="#count-down"
                             >
-                                Baby Quote
+                                Timer
                             </a>
                         </li>
                         <li className="nav-item">
                             <a
                                 className="nav-link"
                                 onClick={handleClick}
-                                href="#count-down"
+                                href="#invite-note"
                             >
                                 Contact
                             </a>

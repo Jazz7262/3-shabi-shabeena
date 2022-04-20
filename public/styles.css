@@ -8,9 +8,8 @@ body {
     font-family: "Mulish", sans-serif;
     color: rgb(162, 0, 109);
     text-align: center;
-    background-color: #ffffff;
-    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
-    overflow-x: hidden;
+    background-color: #f9f097;
+    background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
 }
 
 h1 {
@@ -77,6 +76,8 @@ h1 {
 /* Slide Section */
 #slide {
     text-align: center;
+    background-color: #ffff;
+    background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
 }
 
 #slide .container-fluid {
@@ -299,8 +300,9 @@ h1 {
 
 /* Note Section */
 #note {
-    background-color: #f9f097;
     padding: 3% 7%;
+    background-color: #f9f097;
+    background-image: url("https://www.transparenttextures.com/patterns/elastoplast.png");
 }
 
 #note h1 {
