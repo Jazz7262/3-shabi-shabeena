@@ -115,7 +115,7 @@ function ImaamInfo() {
                     <div className="info">
                         <h5>Tarjuman-e-Quadriyat</h5>
                         <h3>
-                            Hazrath Moulana Sayyed shah Rizwan Pasha Quadri
+                            Hazrath Moulana Syed shah Rizwan Pasha Quadri
                             Al-Haidari Laubaali Sahab
                         </h3>
 
